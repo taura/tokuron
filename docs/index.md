@@ -14,8 +14,6 @@ body {counter-reset: h2}
   h2.nocount:before, h3.nocount:before, h4.nocount:before, h5.nocount:before, h6.nocount:before { content: ""; counter-increment: none } 
 
 </style>
-</head>
-
 
 
 # What's New
