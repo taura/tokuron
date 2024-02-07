@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 # theme: jekyll-theme-minimal
 title: 電子情報学特論
-description: 電子情報学特論ホームページ
+#description: 電子情報学特論ホームページ
 
