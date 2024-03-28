@@ -8,29 +8,31 @@
 
 # 日時・場所
 
-
-
-* 2022年度S1/S2セメスター
+* 2024年度S1/S2セメスター
 * 月曜日5限 (16:50-)
-* オンライン講義. オンライン講義に参加するための情報は, ITC-LMSを参照.
-* 事前にITC-LMSでお知らせ通知機能をONにしておくこと([手順](https://www.youtube.com/watch?v=xAur5zar5Sc))
-* ITC-LMSで受講登録しても履修登録はされないので, それは(履修を決めたら)UTAS上で行うこと.
+* ハイブリッド講義. Zoomで参加するための情報は, UTOLを参照.
+* 事前にUTOLでお知らせ通知機能をONにしておくこと
+<!-- ([手順](https://www.youtube.com/watch?v=xAur5zar5Sc)) -->
+* UTOLで受講登録しても履修登録はされないので, それは(履修を決めたら)UTAS上で行うこと.
 
-# 2022年度講義内容
+# 2024年度講義内容
 
-* JEITAから提供されている講義は, (JEITA)の印がついています.
+* 備考欄に「JEITA」とあるのは, JEITAから提供されている講義です
 
-<iframe src="https://docs.google.com/spreadsheets/d/1PyDSndSn-0cgl3vVWWg6bbo3P7Kz_Jj22cTURr068XU/edit?usp=sharing" width=1000 height=500></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqO4SafgVDze68UDyv_-hTn99OJEvZl12IaoCaEWHbCF6FezYpq20Xyo0TtpCHIqpOSB5jTCCNMGVU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+* 注: 対面/Zoom の欄は講師の方が対面 (241教室)で参加されるか, Zoom (別の場所)で参加されるか, という意味です. 学生の参加は常にどちらでも可能です (が, 講師が対面参加の場合, 教室で多くの学生が聴講することを期待します)
+
 
 # JEITA講義アンケート
 
-上記で "JEITA" と印がついている回の講義について,無記名式のアンケートに回答していただきます. JEITA講義のごとに Zoomチャットにリンクを送りますので，よく注意していてください.
+上記で "JEITA" と印がついている回の講義について, 無記名式のアンケートに回答していただきます. JEITA講義のごとに Zoomチャットにリンクを送りますので，よく注意していてください.
 
 # 評価
 
-* 出席およびレポート (ITC-LMS にログインできることを確かめておくこと; 出欠のとり方の詳細は追って記す)
+* 出席およびレポート (UTOL にログインできることを確かめておくこと; 出欠のとり方の詳細は追って記す)
 * レポートは全体(13回)から2回の講義を選んで執筆する. それぞれA4 5ページ程度のレポートにまとめる. 講義内容の簡単なまとめと, 自分なりの考察, 調査を行う.
-* ITC-LMSの課題「電子情報学特論I レポート提出」に提出する
-* 提出締切：7月25日
+* UTOLの課題「電子情報学特論I レポート提出」に提出する
+* 提出締切：7月??日
 
 
