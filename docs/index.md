@@ -10,10 +10,10 @@
 
 * 2024年度S1/S2セメスター
 * 月曜日5限 (16:50-)
-* ハイブリッド講義. Zoomで参加するための情報は, UTOLを参照.
+* ハイブリッド講義. Zoomで参加するための情報は, [UTOL本コースのページ](https://utol.ecc.u-tokyo.ac.jp/lms/course/syllabus?idnumber=2024_4884_4840-1027_01) を参照.
 * 事前にUTOLでお知らせ通知機能をONにしておくこと
 <!-- ([手順](https://www.youtube.com/watch?v=xAur5zar5Sc)) -->
-* UTOLで受講登録しても履修登録はされないので, それは(履修を決めたら)UTAS上で行うこと.
+* UTOLで受講登録しても履修登録はされないので, それは(履修を決めたら)[UTAS](https://utas.adm.u-tokyo.ac.jp/) 上で行うこと.
 
 # 2024年度講義内容
 
