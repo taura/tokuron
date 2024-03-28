@@ -22,7 +22,7 @@
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqO4SafgVDze68UDyv_-hTn99OJEvZl12IaoCaEWHbCF6FezYpq20Xyo0TtpCHIqpOSB5jTCCNMGVU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width=1000 height=500></iframe>
 
 
-* 注: 対面/Zoom の欄は講師の方が対面 (241教室)で参加されるか, Zoom (別の場所)で参加されるか, という意味です. 学生の参加は常にどちらでも可能です (が, 講師が対面参加の場合, 教室で多くの学生が聴講することを期待します)
+* <font color="red">注:</font> 対面/Zoom の欄は講師の方が対面 (241教室)で参加されるか, Zoom (別の場所)で参加されるか, という意味です. 学生の参加は常にどちらでも可能です (が, 講師が対面参加の場合, 教室で多くの学生が聴講することを期待します)
 
 
 # JEITA講義アンケート
