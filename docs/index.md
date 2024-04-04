@@ -10,6 +10,7 @@
 
 * 2024年度S1/S2セメスター
 * 月曜日5限 (16:50-)
+* 東京大学本郷キャンパス 工学部2号館4階 245 教室
 * ハイブリッド講義. Zoomで参加するための情報は, [UTOL本コースのページ](https://utol.ecc.u-tokyo.ac.jp/lms/course/syllabus?idnumber=2024_4884_4840-1027_01) を参照.
 * 事前にUTOLでお知らせ通知機能をONにしておくこと ([UTOL](https://utol.ecc.u-tokyo.ac.jp/) -> (右上)「設定(Settings)」 -> 「お知らせ・メッセージ通知」 とその他の必要な設定をしてください)
 <!-- ([手順](https://www.youtube.com/watch?v=xAur5zar5Sc)) -->
@@ -21,7 +22,7 @@
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqO4SafgVDze68UDyv_-hTn99OJEvZl12IaoCaEWHbCF6FezYpq20Xyo0TtpCHIqpOSB5jTCCNMGVU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width=1200 height=800></iframe>
 
-* <font color="red">注:</font> 対面/Zoom の欄は講師の方が対面 (241教室)で参加されるか, Zoom (別の場所)で参加されるか, という意味です. 学生の参加は常にどちらでも可能です (が, 講師が対面参加の場合, 教室で多くの学生が聴講することを期待します)
+* <font color="red">注:</font> 対面/Zoom の欄は講師の方が対面 (245教室)で参加されるか, Zoom (別の場所)で参加されるか, という意味です. 学生の参加は常にどちらでも可能です (が, 講師が対面参加の場合, 教室で多くの学生が聴講することを期待します)
 
 
 # JEITA講義アンケート
